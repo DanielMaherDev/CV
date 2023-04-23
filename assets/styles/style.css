@@ -1,3 +1,12 @@
-div {
-    border: 2px solid black;
+
+li{
+    text-transform: uppercase;
+}
+
+.profile-photo img {
+    border-radius: 50%;
+}
+
+h2{
+    text-align: center;
 }
